@@ -22,3 +22,15 @@ This project is a **Fake News Detection System** that uses **Natural Language Pr
 ```sh
 git clone https://github.com/LaibaSaleem/FakeNewsDetection.git
 cd FakeNewsDetection
+```
+
+### Install dependencies
+```sh
+pip install -r requirements.txt
+```  
+
+### Run the app
+```sh
+python app.py
+```
+The web app will be available at http://127.0.0.1:5000/.
